@@ -118,3 +118,7 @@ run $flask db init, $flask db migrate -m "Initial migration" and $flask db upgra
 1. used a wrong port which was changes
 2. didnt add name which was not nullable which i added to the cls
 3. needed to check password before saving
+
+## Jamilu Salisu was here
+
+> Going only halfway would never get you anywhere in whatever you're learning, building, etc. Go all out or don’t even try at all!
